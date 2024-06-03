@@ -4,4 +4,4 @@ Página de login usada para clonar:
 
 Créditos ao Canal Jovem Programador: https://www.youtube.com/watch?v=06iNYV1xGBM&ab_channel=JovemProgramador 
 
-(Obs: Eu fiz a implementação do userState e userEffect.)
+(Obs: Eu fiz a implementação do useState e useEffect.)
